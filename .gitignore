@@ -1,2 +1,13 @@
 UnityProj/Seasonal Globe LWRP/Temp/
 UnityProj/Seasonal Globe LWRP/Library/
+*.cache
+*.sln
+*.csproj
+*.ide-wal
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/DesignTimeBuild/.dtbcache
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/.suo
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/Browse.VC.db
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/Browse.VC.opendb
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/Server/sqlite3/db.lock
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/Server/sqlite3/storage.ide
+UnityProj/Seasonal Globe LWRP/.vs/Seasonal Globe LWRP/v15/Server/sqlite3/storage.ide-shm
